@@ -22,6 +22,4 @@ module.exports.graph = {
     E: {
         B: 3
     },
-    finish: {   
-    }
 }
